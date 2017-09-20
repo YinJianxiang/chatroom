@@ -1,0 +1,967 @@
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+have save the user_infor.txt
+have save the group_infor.txt.
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+have save the user_infor.txt
+have save the group_infor.txt.
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+have save the user_infor.txt
+have save the group_infor.txt.
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+7 get conect!
+8 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 2
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 2
+
+
+[;44m&&&&function registe&&&&[0m 
+[;44m*[0m registe success!
+[;44m*[0m username:1
+[;44m*[0m password:
+[;44m*[0m user_num:1
+
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 1
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+7 get conect!
+8 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+8 get conect!
+
+
+
+deal function = 2
+
+
+[;44m&&&&function registe&&&&[0m 
+[;44m*[0m registe success!
+[;44m*[0m username:11
+[;44m*[0m password:
+[;44m*[0m user_num:2
+
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 11
+[;42m*[0m mes     : 1
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 11
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 2
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+7 get conect!
+
+
+
+deal function = 2
+
+
+[;44m&&&&function registe&&&&[0m 
+[;44m*[0m registe success!
+[;44m*[0m username:123
+[;44m*[0m password:
+[;44m*[0m user_num:3
+
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 123
+[;42m*[0m mes     : 1
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 123
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 2
+
+
+[;44m&&&&function registe&&&&[0m 
+[;44m*[0m registe success!
+[;44m*[0m username:3
+[;44m*[0m password:
+[;44m*[0m user_num:4
+
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 3
+[;42m*[0m mes     : 1
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 3
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+7 get conect!
+
+
+
+deal function = 2
+
+
+[;44m&&&&function registe&&&&[0m 
+[;44m*[0m registe success!
+[;44m*[0m username:4
+[;44m*[0m password:
+[;44m*[0m user_num:5
+
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 4
+[;42m*[0m mes     : 1
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 4
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 3
+7 get conect!
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 11
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:1
+
+
+
+
+deal function = 3
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:2
+
+
+
+
+deal function = 3
+
+
+
+deal function = 4
+
+
+
+deal function = 3
+send_status friend:1 2
+
+
+
+deal function = 3
+send_status friend:1 2
+
+
+
+deal function = 3
+send_status friend:1 2
+
+
+
+deal function = 3
+send_status friend:1 2
+
+
+
+deal function = 3
+send_status friend:1 2
+
+
+
+deal function = 3
+send_status friend:1 2
+
+
+
+deal function = 3
+send_status friend:1 2
+8 get conect!
+
+
+
+deal function = 2
+
+
+[;44m&&&&function registe&&&&[0m 
+[;44m*[0m registe success!
+[;44m*[0m username:2
+[;44m*[0m password:
+[;44m*[0m user_num:6
+
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :2
+[;42m*[0m from    : server
+[;42m*[0m to      : 2
+[;42m*[0m mes     : 1
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:10
+
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 2
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:10
+
+
+
+
+deal function = 3
+
+
+
+deal function = 3
+
+
+
+deal function = 4
+send_status friend:1 
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+
+
+
+deal function = 4
+
+
+
+deal function = 3
+
+
+
+deal function = 3
+send_status friend:1 2
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+send_status friend:3 2
+str = 02
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:24
+
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:24
+
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+
+
+
+deal function = 7
+
+
+[;32mcreat group : 123  successfully![0m 
+
+7 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:27
+
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+
+
+
+deal function = 7
+7 get conect!
+8 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 2
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:29
+
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+
+
+
+deal function = 4
+
+
+
+deal function = 3
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+send_status friend:3 1
+str = 01
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+send_status friend:3 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+send_status friend:3 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+send_status friend:3 1
+str = 01
+
+
+
+deal function = 3
+send_status friend:1 1
+str = 01
+send_status friend:2 1
+str = 01
+send_status friend:3 1
+str = 01
+
+
+
+deal function = 7
+服务器已经关闭
+Connected MySQL successful! 
+服务器开始启动..
+成功绑定
+设置监听成功
+初始化服务器成功
+服务器开始服务
+7 get conect!
+8 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:0
+
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+send_status friend:4 2
+str = 02
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:1
+
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+send_status friend:4 2
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+send_status friend:4 2
+str = 02
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+send_status friend:4 2
+str = 02
+7 get conect!
+8 get conect!
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 8
+[;42m*[0m pack left Now is:4
+
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+send_status friend:4 2
+str = 02
+
+
+
+deal function = 1
+
+
+[;42m*****send pack****[0m
+[;42m*[0m type    :1
+[;42m*[0m from    : server
+[;42m*[0m to      : 1
+[;42m*[0m mes     : 0
+[;42m*[0m recv_fd : 7
+[;42m*[0m pack left Now is:5
+
+
+
+
+deal function = 3
+send_status friend:1 2
+str = 02
+send_status friend:2 2
+str = 02
+send_status friend:3 2
+str = 02
+send_status friend:4 2
+str = 02
+服务器已经关闭
